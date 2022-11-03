@@ -1,0 +1,23 @@
+{
+	"name": "funitown",
+	"version": "1.0.0",
+	"description": "This is my personal project",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Le Duc CFD",
+	"license": "ISC",
+	"devDependencies": {
+		"grunt": "^1.3.0",
+		"grunt-browser-sync": "^2.2.0",
+		"grunt-contrib-cssmin": "^3.0.0",
+		"grunt-contrib-sass": "^2.0.0",
+		"grunt-contrib-uglify": "^5.0.0",
+		"grunt-contrib-watch": "^1.1.0",
+		"load-grunt-tasks": "^5.1.0"
+	},
+	"dependencies": {
+		"@types/jquery": "^3.5.5"
+	}
+}
